@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorAccent">#878585</color>
+    <color name="colorPrimary">#C3C2C2</color>
+    <color name="colorPrimaryDark">#E41B13</color>
+    <color name="view">#b4b4b4</color>*
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFF</color>
+    <color name="white_dark">#DFDFDF</color>
+    <color name="color_divideur">#EEF0F3</color>
+    <color name="grey_light">#DCDCDC</color>
+    <color name="b85">#d9000000</color>
+    <color name="color_normal_text">#273D52</color>
+    <color name="color_faded_text">#939EA8</color>
+
+    <color name="invalid">#F04848</color>
+    <color name="idValid">#01A352</color>
+    <color name="view_background">#eeeeee</color>
+
+    <color name="basicColor">#E0E1E7</color>
+    <color name="default_color">#fafafa</color>
+
+    <color name="battery_high">#01a352</color>
+    <color name="battery_low">#f04848</color>
+    <color name="battery_medium">#FAC30F</color>
+    <color name="background_start_color">#F2F5FA</color>
+
+
+    <color name="bg_success">#28a745</color>
+    <color name="bg_warning">#ffc107</color>
+    <color name="red">#FFE41B13</color>
+</resources>
